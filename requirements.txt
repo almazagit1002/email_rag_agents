@@ -6,3 +6,7 @@ langchain
 notebook
 langsmith
 python-dotenv
+sentence_transformers
+langchain_chroma
+langgraph
+
